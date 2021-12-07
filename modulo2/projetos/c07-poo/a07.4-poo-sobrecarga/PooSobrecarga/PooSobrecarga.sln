@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PooSobrecarga", "PooSobrecarga.csproj", "{0FFCABD1-6961-4CBA-9CCF-5875A9CDC2CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FFCABD1-6961-4CBA-9CCF-5875A9CDC2CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FFCABD1-6961-4CBA-9CCF-5875A9CDC2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FFCABD1-6961-4CBA-9CCF-5875A9CDC2CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FFCABD1-6961-4CBA-9CCF-5875A9CDC2CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66C0FBF0-9B9B-44D1-80D7-03EED992DE11}
+	EndGlobalSection
+EndGlobal

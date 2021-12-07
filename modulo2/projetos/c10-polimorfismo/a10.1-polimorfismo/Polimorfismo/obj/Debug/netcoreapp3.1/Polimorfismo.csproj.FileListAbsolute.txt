@@ -1,0 +1,14 @@
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c10-polimorfismo\a10.1-polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.exe
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c10-polimorfismo\a10.1-polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.deps.json
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c10-polimorfismo\a10.1-polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.runtimeconfig.json
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c10-polimorfismo\a10.1-polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.runtimeconfig.dev.json
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c10-polimorfismo\a10.1-polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.dll
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c10-polimorfismo\a10.1-polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.pdb
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c10-polimorfismo\a10.1-polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c10-polimorfismo\a10.1-polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c10-polimorfismo\a10.1-polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c10-polimorfismo\a10.1-polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.AssemblyInfo.cs
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c10-polimorfismo\a10.1-polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c10-polimorfismo\a10.1-polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.dll
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c10-polimorfismo\a10.1-polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.pdb
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c10-polimorfismo\a10.1-polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.genruntimeconfig.cache

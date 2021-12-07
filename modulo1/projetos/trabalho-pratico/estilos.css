@@ -1,0 +1,37 @@
+html {
+  font-family: Arial;
+}
+
+h1,
+h2,
+th {
+  color: rgb(23, 53, 117);
+}
+
+table {
+  width: 100%;
+  margin-top: 20px;
+}
+
+th,
+td {
+  text-align: right;
+}
+
+th:first-child,
+td:first-child {
+  text-align: left;
+}
+
+body {
+  /*display: flex;
+  justify-content: center;*/
+  background-color: aqua;
+}
+
+main {
+  max-width: 700px;
+  background-color: white;
+  padding: 20px;
+  margin: auto;
+}

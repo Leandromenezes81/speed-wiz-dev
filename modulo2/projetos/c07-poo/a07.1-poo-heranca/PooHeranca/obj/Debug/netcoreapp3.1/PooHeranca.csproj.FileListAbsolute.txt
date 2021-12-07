@@ -1,0 +1,13 @@
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.1-poo-heranca\PooHeranca\bin\Debug\netcoreapp3.1\PooHeranca.exe
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.1-poo-heranca\PooHeranca\bin\Debug\netcoreapp3.1\PooHeranca.deps.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.1-poo-heranca\PooHeranca\bin\Debug\netcoreapp3.1\PooHeranca.runtimeconfig.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.1-poo-heranca\PooHeranca\bin\Debug\netcoreapp3.1\PooHeranca.runtimeconfig.dev.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.1-poo-heranca\PooHeranca\bin\Debug\netcoreapp3.1\PooHeranca.dll
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.1-poo-heranca\PooHeranca\bin\Debug\netcoreapp3.1\PooHeranca.pdb
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.1-poo-heranca\PooHeranca\obj\Debug\netcoreapp3.1\PooHeranca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.1-poo-heranca\PooHeranca\obj\Debug\netcoreapp3.1\PooHeranca.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.1-poo-heranca\PooHeranca\obj\Debug\netcoreapp3.1\PooHeranca.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.1-poo-heranca\PooHeranca\obj\Debug\netcoreapp3.1\PooHeranca.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.1-poo-heranca\PooHeranca\obj\Debug\netcoreapp3.1\PooHeranca.dll
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.1-poo-heranca\PooHeranca\obj\Debug\netcoreapp3.1\PooHeranca.pdb
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.1-poo-heranca\PooHeranca\obj\Debug\netcoreapp3.1\PooHeranca.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.4-classes-parciais\ClassesParciais\bin\Debug\netcoreapp3.1\ClassesParciais.exe
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.4-classes-parciais\ClassesParciais\bin\Debug\netcoreapp3.1\ClassesParciais.deps.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.4-classes-parciais\ClassesParciais\bin\Debug\netcoreapp3.1\ClassesParciais.runtimeconfig.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.4-classes-parciais\ClassesParciais\bin\Debug\netcoreapp3.1\ClassesParciais.runtimeconfig.dev.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.4-classes-parciais\ClassesParciais\bin\Debug\netcoreapp3.1\ClassesParciais.dll
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.4-classes-parciais\ClassesParciais\bin\Debug\netcoreapp3.1\ClassesParciais.pdb
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.4-classes-parciais\ClassesParciais\obj\Debug\netcoreapp3.1\ClassesParciais.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.4-classes-parciais\ClassesParciais\obj\Debug\netcoreapp3.1\ClassesParciais.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.4-classes-parciais\ClassesParciais\obj\Debug\netcoreapp3.1\ClassesParciais.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.4-classes-parciais\ClassesParciais\obj\Debug\netcoreapp3.1\ClassesParciais.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.4-classes-parciais\ClassesParciais\obj\Debug\netcoreapp3.1\ClassesParciais.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.4-classes-parciais\ClassesParciais\obj\Debug\netcoreapp3.1\ClassesParciais.dll
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.4-classes-parciais\ClassesParciais\obj\Debug\netcoreapp3.1\ClassesParciais.pdb
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.4-classes-parciais\ClassesParciais\obj\Debug\netcoreapp3.1\ClassesParciais.genruntimeconfig.cache

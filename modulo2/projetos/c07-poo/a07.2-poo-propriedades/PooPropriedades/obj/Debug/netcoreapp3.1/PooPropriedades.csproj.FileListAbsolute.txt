@@ -1,0 +1,14 @@
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.2-poo-propriedades\PooPropriedades\bin\Debug\netcoreapp3.1\PooPropriedades.exe
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.2-poo-propriedades\PooPropriedades\bin\Debug\netcoreapp3.1\PooPropriedades.deps.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.2-poo-propriedades\PooPropriedades\bin\Debug\netcoreapp3.1\PooPropriedades.runtimeconfig.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.2-poo-propriedades\PooPropriedades\bin\Debug\netcoreapp3.1\PooPropriedades.runtimeconfig.dev.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.2-poo-propriedades\PooPropriedades\bin\Debug\netcoreapp3.1\PooPropriedades.dll
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.2-poo-propriedades\PooPropriedades\bin\Debug\netcoreapp3.1\PooPropriedades.pdb
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.2-poo-propriedades\PooPropriedades\obj\Debug\netcoreapp3.1\PooPropriedades.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.2-poo-propriedades\PooPropriedades\obj\Debug\netcoreapp3.1\PooPropriedades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.2-poo-propriedades\PooPropriedades\obj\Debug\netcoreapp3.1\PooPropriedades.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.2-poo-propriedades\PooPropriedades\obj\Debug\netcoreapp3.1\PooPropriedades.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.2-poo-propriedades\PooPropriedades\obj\Debug\netcoreapp3.1\PooPropriedades.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.2-poo-propriedades\PooPropriedades\obj\Debug\netcoreapp3.1\PooPropriedades.dll
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.2-poo-propriedades\PooPropriedades\obj\Debug\netcoreapp3.1\PooPropriedades.pdb
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.2-poo-propriedades\PooPropriedades\obj\Debug\netcoreapp3.1\PooPropriedades.genruntimeconfig.cache

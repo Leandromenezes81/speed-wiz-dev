@@ -1,0 +1,14 @@
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c05-estruturas-de-repeticao\a05.1-for-e-while\EstruturaDeRepeticaoForEWhile\bin\Debug\netcoreapp3.1\EstruturaDeRepeticaoForEWhile.exe
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c05-estruturas-de-repeticao\a05.1-for-e-while\EstruturaDeRepeticaoForEWhile\bin\Debug\netcoreapp3.1\EstruturaDeRepeticaoForEWhile.deps.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c05-estruturas-de-repeticao\a05.1-for-e-while\EstruturaDeRepeticaoForEWhile\bin\Debug\netcoreapp3.1\EstruturaDeRepeticaoForEWhile.runtimeconfig.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c05-estruturas-de-repeticao\a05.1-for-e-while\EstruturaDeRepeticaoForEWhile\bin\Debug\netcoreapp3.1\EstruturaDeRepeticaoForEWhile.runtimeconfig.dev.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c05-estruturas-de-repeticao\a05.1-for-e-while\EstruturaDeRepeticaoForEWhile\bin\Debug\netcoreapp3.1\EstruturaDeRepeticaoForEWhile.dll
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c05-estruturas-de-repeticao\a05.1-for-e-while\EstruturaDeRepeticaoForEWhile\bin\Debug\netcoreapp3.1\EstruturaDeRepeticaoForEWhile.pdb
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c05-estruturas-de-repeticao\a05.1-for-e-while\EstruturaDeRepeticaoForEWhile\obj\Debug\netcoreapp3.1\EstruturaDeRepeticaoForEWhile.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c05-estruturas-de-repeticao\a05.1-for-e-while\EstruturaDeRepeticaoForEWhile\obj\Debug\netcoreapp3.1\EstruturaDeRepeticaoForEWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c05-estruturas-de-repeticao\a05.1-for-e-while\EstruturaDeRepeticaoForEWhile\obj\Debug\netcoreapp3.1\EstruturaDeRepeticaoForEWhile.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c05-estruturas-de-repeticao\a05.1-for-e-while\EstruturaDeRepeticaoForEWhile\obj\Debug\netcoreapp3.1\EstruturaDeRepeticaoForEWhile.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c05-estruturas-de-repeticao\a05.1-for-e-while\EstruturaDeRepeticaoForEWhile\obj\Debug\netcoreapp3.1\EstruturaDeRepeticaoForEWhile.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c05-estruturas-de-repeticao\a05.1-for-e-while\EstruturaDeRepeticaoForEWhile\obj\Debug\netcoreapp3.1\EstruturaDeRepeticaoForEWhile.dll
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c05-estruturas-de-repeticao\a05.1-for-e-while\EstruturaDeRepeticaoForEWhile\obj\Debug\netcoreapp3.1\EstruturaDeRepeticaoForEWhile.pdb
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c05-estruturas-de-repeticao\a05.1-for-e-while\EstruturaDeRepeticaoForEWhile\obj\Debug\netcoreapp3.1\EstruturaDeRepeticaoForEWhile.genruntimeconfig.cache

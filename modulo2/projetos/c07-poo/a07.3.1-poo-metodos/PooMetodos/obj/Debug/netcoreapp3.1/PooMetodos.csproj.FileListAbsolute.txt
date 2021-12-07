@@ -1,0 +1,14 @@
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.3.1-poo-metodos\PooMetodos\bin\Debug\netcoreapp3.1\PooMetodos.exe
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.3.1-poo-metodos\PooMetodos\bin\Debug\netcoreapp3.1\PooMetodos.deps.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.3.1-poo-metodos\PooMetodos\bin\Debug\netcoreapp3.1\PooMetodos.runtimeconfig.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.3.1-poo-metodos\PooMetodos\bin\Debug\netcoreapp3.1\PooMetodos.runtimeconfig.dev.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.3.1-poo-metodos\PooMetodos\bin\Debug\netcoreapp3.1\PooMetodos.dll
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.3.1-poo-metodos\PooMetodos\bin\Debug\netcoreapp3.1\PooMetodos.pdb
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.3.1-poo-metodos\PooMetodos\obj\Debug\netcoreapp3.1\PooMetodos.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.3.1-poo-metodos\PooMetodos\obj\Debug\netcoreapp3.1\PooMetodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.3.1-poo-metodos\PooMetodos\obj\Debug\netcoreapp3.1\PooMetodos.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.3.1-poo-metodos\PooMetodos\obj\Debug\netcoreapp3.1\PooMetodos.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.3.1-poo-metodos\PooMetodos\obj\Debug\netcoreapp3.1\PooMetodos.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.3.1-poo-metodos\PooMetodos\obj\Debug\netcoreapp3.1\PooMetodos.dll
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.3.1-poo-metodos\PooMetodos\obj\Debug\netcoreapp3.1\PooMetodos.pdb
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.3.1-poo-metodos\PooMetodos\obj\Debug\netcoreapp3.1\PooMetodos.genruntimeconfig.cache

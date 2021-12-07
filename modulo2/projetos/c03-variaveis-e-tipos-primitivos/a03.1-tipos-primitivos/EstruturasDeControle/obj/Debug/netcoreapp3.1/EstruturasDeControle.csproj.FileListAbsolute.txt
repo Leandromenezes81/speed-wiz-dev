@@ -1,0 +1,14 @@
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\EstruturasDeControle\bin\Debug\netcoreapp3.1\EstruturasDeControle.exe
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\EstruturasDeControle\bin\Debug\netcoreapp3.1\EstruturasDeControle.deps.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\EstruturasDeControle\bin\Debug\netcoreapp3.1\EstruturasDeControle.runtimeconfig.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\EstruturasDeControle\bin\Debug\netcoreapp3.1\EstruturasDeControle.runtimeconfig.dev.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\EstruturasDeControle\bin\Debug\netcoreapp3.1\EstruturasDeControle.dll
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\EstruturasDeControle\bin\Debug\netcoreapp3.1\EstruturasDeControle.pdb
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\EstruturasDeControle\obj\Debug\netcoreapp3.1\EstruturasDeControle.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\EstruturasDeControle\obj\Debug\netcoreapp3.1\EstruturasDeControle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\EstruturasDeControle\obj\Debug\netcoreapp3.1\EstruturasDeControle.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\EstruturasDeControle\obj\Debug\netcoreapp3.1\EstruturasDeControle.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\EstruturasDeControle\obj\Debug\netcoreapp3.1\EstruturasDeControle.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\EstruturasDeControle\obj\Debug\netcoreapp3.1\EstruturasDeControle.dll
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\EstruturasDeControle\obj\Debug\netcoreapp3.1\EstruturasDeControle.pdb
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\EstruturasDeControle\obj\Debug\netcoreapp3.1\EstruturasDeControle.genruntimeconfig.cache

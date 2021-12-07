@@ -1,0 +1,14 @@
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.4-poo-sobrecarga\PooSobrecarga\bin\Debug\netcoreapp3.1\PooSobrecarga.exe
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.4-poo-sobrecarga\PooSobrecarga\bin\Debug\netcoreapp3.1\PooSobrecarga.deps.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.4-poo-sobrecarga\PooSobrecarga\bin\Debug\netcoreapp3.1\PooSobrecarga.runtimeconfig.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.4-poo-sobrecarga\PooSobrecarga\bin\Debug\netcoreapp3.1\PooSobrecarga.runtimeconfig.dev.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.4-poo-sobrecarga\PooSobrecarga\bin\Debug\netcoreapp3.1\PooSobrecarga.dll
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.4-poo-sobrecarga\PooSobrecarga\bin\Debug\netcoreapp3.1\PooSobrecarga.pdb
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.4-poo-sobrecarga\PooSobrecarga\obj\Debug\netcoreapp3.1\PooSobrecarga.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.4-poo-sobrecarga\PooSobrecarga\obj\Debug\netcoreapp3.1\PooSobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.4-poo-sobrecarga\PooSobrecarga\obj\Debug\netcoreapp3.1\PooSobrecarga.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.4-poo-sobrecarga\PooSobrecarga\obj\Debug\netcoreapp3.1\PooSobrecarga.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.4-poo-sobrecarga\PooSobrecarga\obj\Debug\netcoreapp3.1\PooSobrecarga.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.4-poo-sobrecarga\PooSobrecarga\obj\Debug\netcoreapp3.1\PooSobrecarga.dll
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.4-poo-sobrecarga\PooSobrecarga\obj\Debug\netcoreapp3.1\PooSobrecarga.pdb
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c07-poo\a07.4-poo-sobrecarga\PooSobrecarga\obj\Debug\netcoreapp3.1\PooSobrecarga.genruntimeconfig.cache

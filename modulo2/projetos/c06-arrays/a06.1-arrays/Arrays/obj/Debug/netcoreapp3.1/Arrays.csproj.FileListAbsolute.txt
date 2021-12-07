@@ -1,0 +1,14 @@
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c06-arrays\a06.1-arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c06-arrays\a06.1-arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c06-arrays\a06.1-arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c06-arrays\a06.1-arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c06-arrays\a06.1-arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c06-arrays\a06.1-arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c06-arrays\a06.1-arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c06-arrays\a06.1-arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c06-arrays\a06.1-arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c06-arrays\a06.1-arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c06-arrays\a06.1-arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c06-arrays\a06.1-arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c06-arrays\a06.1-arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c06-arrays\a06.1-arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.1-abstracao\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.exe
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.1-abstracao\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.deps.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.1-abstracao\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.runtimeconfig.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.1-abstracao\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.runtimeconfig.dev.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.1-abstracao\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.dll
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.1-abstracao\Abstracao\bin\Debug\netcoreapp3.1\Abstracao.pdb
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.1-abstracao\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.1-abstracao\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.1-abstracao\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.1-abstracao\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.1-abstracao\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.1-abstracao\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.dll
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.1-abstracao\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.pdb
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c09-abstracao\a09.1-abstracao\Abstracao\obj\Debug\netcoreapp3.1\Abstracao.genruntimeconfig.cache

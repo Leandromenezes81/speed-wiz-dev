@@ -1,0 +1,363 @@
+// Criação do DATABASE - Aula 3.1
+
+CREATE DATABASE mercearia;
+
+CREATE DATABASE biblioteca;
+
+// Criação de Tabelas (Parte 1) - Aula 3.2.1
+
+
+/* Usando o banco de dados criado na aula anerior.
+
+USE mercearia;
+
+CREATE TABLE clientes
+(
+	// identity - determina que este campo é incrementado de 1 em 1
+	Codigo int identity(1,1) NOT NULL,
+	Nome varchar(60) NOT NULL,
+	CPF varchar(11) NOT NULL,
+	Email varchar(255) NULL,
+	// bit - tipo usado para trabalhar com booleanos (0 ou 1)
+	Especial bit NOT NULL,
+	// Definição da Chave primária - PK_Codigo é o nome da chave que recebe o campo 'Codigo'.
+	CONSTRAINT PK_Codigo PRIMARY KEY(Codigo)
+)
+
+// Criação de Tabelas (Parte 2) - Aula 3.2.2
+
+CREATE TABLE funcionarios
+(
+	Codigo int identity(1,1) NOT NULL,
+	Nome varchar(60) NOT NULL,
+	Email varchar(255) NULL,
+	CONSTRAINT PK_Codigo_Funcionario PRIMARY KEY(Codigo)
+)
+
+// Criação de Tabelas (Parte 3) - Aula 3.2.3
+
+CREATE TABLE departamentos
+(
+	Codigo int identity(1,1) NOT NULL,
+	Descricao varchar(60) NOT NULL,
+	CONSTRAINT PK_Codigo_Departamentos PRIMARY KEY(Codigo)
+)
+
+CREATE TABLE produtos
+(
+	Codigo int identity(1,1) NOT NULL,
+	Descricao varchar(60) NOT NULL,
+	CONSTRAINT PK_Codigo_Produtos PRIMARY KEY(Codigo)
+)
+
+// Criação de Tabelas (Parte 4) - Aula 3.2.4
+
+CREATE TABLE pedidos
+(
+	Numero int identity(1,1) NOT NULL,
+	CodigoCliente int NOT NULL,
+	CodigoFuncionario int NOT NULL,
+	DataPedido date NOT NULL,
+	CONSTRAINT PK_Numero PRIMARY KEY(Numero),
+	CONSTRAINT FK_CodigoCliente_Pedidos FOREING KEY(CodigoCliente) REFERENCES clientes(Codigo)
+	CONSTRAINT FK_CodigoFuncionario_Pedidos FOREING KEY(CodigoFuncionario) REFERENCES funcionarios(Codigo)
+)
+
+CREATE TABLE itens_pedidos
+(
+	CodigoItem int identity(1,1) NOT NULL,
+	NumeroPedido int NOT NULL,
+	CodigoProduto int NOT NULL,
+	Quantidade decimal NOT NULL,
+	Valor decimal NOT NULL,
+	CONSTRAINT PK_CodigoItem PRIMARY KEY(CodigoItem),
+	CONSTRAINT FK_NumeroPedido_ItensPedido FOREIGN KEY(NumeroPedido) REFERENCES pedidos(Numero),
+	CONSTRAINT FK_CodigoProduto_ItensPedido FOREIGN KEY(CodigoProduto) REFERENCES produtos(Codigo),
+)
+
+// Comando INSERT INTO (Parte 1) - Aula 3.3.1
+
+// INSERT Padrão
+
+INSERT INTO clientes (Nome,CPF,Email,Especial)
+VALUES ('Renato','09845698711','garuda@garuda.com',0)
+
+// INSERT sem 'INTO'
+
+INSERT clientes (Nome,CPF,Email,Especial)
+VALUES ('Renato','09845698711','garuda@garuda.com',0)
+
+// INSERT sem 'INTO' e Colunas: apenas possível se os valores
+// inseridos estiverem na mesma ordem da coluna criada no DB.
+
+INSERT clientes
+VALUES ('Max Mall','23409865709','maxmall@garuda.com',1)
+
+
+// INSERT - Criando vários cadastros.
+
+INSERT clientes VALUES ('João Mall','12345678911','joaomall@garuda.com',1),
+		       ('Maria Mall','09845632109','mariamall@garuda.com',1)
+
+// Comando INSERT INTO (Parte 2) - Aula 3.3.2
+
+INSERT INTO departamentos VALUES ('Vendas'),('Financeiro')
+
+INSERT INTO funcionarios VALUES ('Rodrigo Vilar','rodrigovilar@bol.com.br'),('Debora Rodrigues','debora@uol.com.br')
+
+INSERT INTO produtos (Descricao) VALUES ('Arroz'),('Feijão')
+
+// Comando INSERT INTO (Parte 3) - Aula 3.3.3
+
+// Comando INSERT padrão na tabela 'pedidos'. 'GETDATE()' atribui ao campo date a data atual.
+
+INSERT INTO pedidos (CodigoCliente,CodigoFuncionario,DataPedido) 
+VALUES (1,2,GETDATE());
+
+// Comando INSERT padrão na tabela 'itens_pedidos'.
+
+INSERT INTO itens_pedidos (NumeroPedido,CodigoProduto,Quantidade,Valor) 
+VALUES (1,2,2,9.70)
+
+// Comando SELECT (Parte 1) - Aula 3.4.1
+
+// Retornando apenas uma coluna da tabela clientes.
+
+SELECT 
+Nome 
+FROM clientes
+
+// Retornando mais de uma coluna da tabela clientes.
+
+SELECT 
+Nome,
+Email
+FROM clientes
+
+// Retornando apenas uma coluna da tabela departamentos.
+
+SELECT 
+Descricao
+FROM departamentos
+
+// Retornando mais de uma coluna da tabela departamentos. Mesmo com as colunas fora de ordem,
+// a consulta no DB é realizada normalmente.
+
+SELECT 
+Descricao,
+Codigo
+FROM departamentos
+
+// Retornando apenas a coluna 'Email' da tabela funcionarios.
+
+SELECT 
+Email
+FROM funcionarios
+
+// Retornando apenas as colunas 'Nome' e 'Email' da tabela funcionarios.
+
+SELECT
+Nome,
+Email
+FROM funcionarios
+
+// Retornando todas as colunas da tabela funcionarios.
+
+SELECT
+*
+FROM funcionarios
+
+// Retornando todas as colunas da tabela clientes.
+
+SELECT
+*
+FROM clientes
+
+// Cláusula ORDER BY - Utiliuzada para ordenar um resultado de uma consulta.
+
+// O comando abaixo ordena a tabela pela coluna 'Nome', de forma ascendente.
+// A consulta será exibida utilizando a ordem alfabética ascendente a partir dos
+// nomes. ORDER BY realiza a consulta de forma ascendente por padrão. Dessa forma,
+// ao removermos ASC, o resultado da consulta será ascendente.
+
+SELECT
+*
+FROM clientes
+ORDER BY Nome ASC
+
+// Ordenando de forma decrescente a partir da coluna 'Nome'.
+
+SELECT
+*
+FROM clientes
+ORDER BY Nome DESC
+
+// Comando SELECT (Parte 2) - Aula 3.4.2
+
+// DISTINCT - Retorna valores campos sem duplicidade.
+
+SELECT DISTINCT 
+Email
+FROM clientes
+
+// Para coemntar um comando SQL, usamos '--'.
+
+// WHERE - Filtra registros em uma tabela.
+
+SELECT
+*
+FROM clientes
+WHERE Especial = 1
+
+//
+
+SELECT
+*
+FROM produtos
+WHERE Codigo = 2
+
+// Operador AND - Exibe resultado apenas se todas as condições da consulta fores verdadeiras.
+
+SELECT
+*
+FROM clientes
+WHERE Especial = 1 AND
+Nome = 'Maria Mall'
+
+//Operador OR - Exibe resultados se, ao menos, uma das condições forem verdadeiras.
+
+SELECT
+*
+FROM clientes
+WHERE Nome = 'Max Mall' OR
+Nome = 'Maria Mall'
+
+// Comando JOIN (Parte 1) - Aula 3.5.1
+
+// Selecionando DB 'biblioteca'.
+
+USE biblioteca;
+
+// Criando a tabela 'autores'
+
+CREATE TABLE autores
+(
+	Codigo int identity(1,1) NOT NULL,
+	Nome varchar(60) NOT NULL,
+	CONSTRAINT PK_Codigo PRIMARY KEY(Codigo)
+)
+
+// Criando a tabela 'livros'.
+
+CREATE TABLE livros
+(
+	Codigo int identity(1,1) NOT NULL,
+	Descricao varchar(60) NOT NULL,
+	ISBN int NOT NULL,
+	CodigoAutor int NULL
+	CONSTRAINT PK_CodigoLivros PRIMARY KEY(Codigo),
+	CONSTRAINT FK_CodigoAutor_Livros FOREIGN KEY(CodigoAutor) REFERENCES autores(Codigo)
+)
+
+// Inserindo dados nas tabelas.
+
+INSERT INTO autores (Nome) VALUES ('Daniel Kahneman'),('Klaus Schwab');
+
+SELECT * FROM autores;
+
+INSERT INTO livros (Descricao,ISBN,CodigoAutor) 
+VALUES ('Ruído: Uma falha no julgamento humano',8547,1),('A Quarta Revolução Industrial',8572,2),
+('Rápido e devagar',9788,1)
+
+SELECT * FROM livros;
+
+INSERT INTO livros (Descricao,ISBN) VALUES ('O poder do hábito',37655),('Mais esperto que o diabo',76359)
+
+SELECT * FROM autores;
+SELECT * FROM livros;
+
+// INNER JOIN - Retorna registros correlatados entre duas tabelas.
+
+SELECT 
+	livros.Codigo,
+	livros.Descricao,
+	autores.Nome
+FROM livros 
+INNER JOIN autores 
+	ON livros.CodigoAutor = autores.Codigo
+
+// Comando JOIN (Parte 1) - Aula 3.5.2
+
+// LEFT JOIN - Retorna registros da tabela da esquerda mesmo sem relação à tabela da direita.
+
+SELECT 
+	livros.Codigo,
+	livros.Descricao,
+	livros.ISBN,
+	autores.Nome
+FROM livros 
+LEFT JOIN autores 
+	ON livros.CodigoAutor = autores.Codigo
+
+// RIGHT JOIN - Retorna registros da tabela da direita mesmo sem relação à tabela da esquerda.
+
+SELECT 
+	livros.Codigo,
+	livros.Descricao,
+	livros.ISBN,
+	autores.Nome
+FROM autores 
+RIGHT JOIN livros 
+	ON livros.CodigoAutor = autores.Codigo
+
+// Comando UPDATE - Aula 4.1
+
+// Alteração de campo simples
+
+UPDATE livros SET Descricao = 'Ruído: Uma Falha no Julgamento Humano' WHERE Codigo = 3
+
+// Alteração de mais de um campo.
+
+UPDATE livros SET Descricao = 'Ruído: Uma Falha no Julgamento Humano', 
+		  ISBN = 778899
+WHERE Codigo = 3
+
+// Comando DELETE - Aula 4.2
+
+// Deletar todos os dados de uma tabela
+
+DELETE FROM livros;
+
+// DELETE + WHERE - Deleta campos específicos da tabela.
+
+DELETE FROM livros WHERE Codigo = 5
+
+// Comando ALTER TABLE - Aula 4.3
+
+// Comando ALTER TABLE - Alterar estruturas da tabela em um DB
+
+// Comando para adicionar uma nova coluna.
+// A tabela 'livros' já possui campos adicionados. Nesse caso
+// O Gerenciador não permite criar uma coluna com o argumento 'NOT NULL'.
+
+ALTER TABLE livros ADD AnoLancamento int NULL
+
+// Comando para alterar as propriedades de uma coluna.
+
+ALTER TABLE livros ALTER COLUMN Descricao VARCHAR(80) NOT NULL
+
+// Comando para deletar uma coluna de uma tabela.
+
+ALTER TABLE livros DROP COLUMN AnoLancamento
+
+// Comando DROP TABLE - Aula 4.4
+
+// Comando para deletar uma tabela.
+
+DROP TABLE livros
+
+// Comando DROP DATABASE - Aula 4.5
+
+// Comando para excluir um banco de dados.
+
+DROP DATABASE biblioteca

@@ -1,0 +1,14 @@
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\TiposPrimitivos\bin\Debug\netcoreapp3.1\TiposPrimitivos.exe
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\TiposPrimitivos\bin\Debug\netcoreapp3.1\TiposPrimitivos.deps.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\TiposPrimitivos\bin\Debug\netcoreapp3.1\TiposPrimitivos.runtimeconfig.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\TiposPrimitivos\bin\Debug\netcoreapp3.1\TiposPrimitivos.runtimeconfig.dev.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\TiposPrimitivos\bin\Debug\netcoreapp3.1\TiposPrimitivos.dll
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\TiposPrimitivos\bin\Debug\netcoreapp3.1\TiposPrimitivos.pdb
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\TiposPrimitivos\obj\Debug\netcoreapp3.1\TiposPrimitivos.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\TiposPrimitivos\obj\Debug\netcoreapp3.1\TiposPrimitivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\TiposPrimitivos\obj\Debug\netcoreapp3.1\TiposPrimitivos.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\TiposPrimitivos\obj\Debug\netcoreapp3.1\TiposPrimitivos.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\TiposPrimitivos\obj\Debug\netcoreapp3.1\TiposPrimitivos.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\TiposPrimitivos\obj\Debug\netcoreapp3.1\TiposPrimitivos.dll
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\TiposPrimitivos\obj\Debug\netcoreapp3.1\TiposPrimitivos.pdb
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.1-tipos-primitivos\TiposPrimitivos\obj\Debug\netcoreapp3.1\TiposPrimitivos.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\PrimeiroProgramaCSharp\bin\Debug\netcoreapp3.1\PrimeiroProgramaCSharp.exe
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\PrimeiroProgramaCSharp\bin\Debug\netcoreapp3.1\PrimeiroProgramaCSharp.deps.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\PrimeiroProgramaCSharp\bin\Debug\netcoreapp3.1\PrimeiroProgramaCSharp.runtimeconfig.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\PrimeiroProgramaCSharp\bin\Debug\netcoreapp3.1\PrimeiroProgramaCSharp.runtimeconfig.dev.json
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\PrimeiroProgramaCSharp\bin\Debug\netcoreapp3.1\PrimeiroProgramaCSharp.dll
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\PrimeiroProgramaCSharp\bin\Debug\netcoreapp3.1\PrimeiroProgramaCSharp.pdb
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\PrimeiroProgramaCSharp\obj\Debug\netcoreapp3.1\PrimeiroProgramaCSharp.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\PrimeiroProgramaCSharp\obj\Debug\netcoreapp3.1\PrimeiroProgramaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\PrimeiroProgramaCSharp\obj\Debug\netcoreapp3.1\PrimeiroProgramaCSharp.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\PrimeiroProgramaCSharp\obj\Debug\netcoreapp3.1\PrimeiroProgramaCSharp.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\PrimeiroProgramaCSharp\obj\Debug\netcoreapp3.1\PrimeiroProgramaCSharp.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\PrimeiroProgramaCSharp\obj\Debug\netcoreapp3.1\PrimeiroProgramaCSharp.dll
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\PrimeiroProgramaCSharp\obj\Debug\netcoreapp3.1\PrimeiroProgramaCSharp.pdb
+D:\Users\Leandro\Projetos\speed-wiz-dev\modulo2\projetos\PrimeiroProgramaCSharp\obj\Debug\netcoreapp3.1\PrimeiroProgramaCSharp.genruntimeconfig.cache

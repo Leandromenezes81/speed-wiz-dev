@@ -1,0 +1,14 @@
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.3-enumeradores\TiposPrimitivosEnumeradores\bin\Debug\netcoreapp3.1\TiposPrimitivosEnumeradores.exe
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.3-enumeradores\TiposPrimitivosEnumeradores\bin\Debug\netcoreapp3.1\TiposPrimitivosEnumeradores.deps.json
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.3-enumeradores\TiposPrimitivosEnumeradores\bin\Debug\netcoreapp3.1\TiposPrimitivosEnumeradores.runtimeconfig.json
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.3-enumeradores\TiposPrimitivosEnumeradores\bin\Debug\netcoreapp3.1\TiposPrimitivosEnumeradores.runtimeconfig.dev.json
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.3-enumeradores\TiposPrimitivosEnumeradores\bin\Debug\netcoreapp3.1\TiposPrimitivosEnumeradores.dll
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.3-enumeradores\TiposPrimitivosEnumeradores\bin\Debug\netcoreapp3.1\TiposPrimitivosEnumeradores.pdb
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.3-enumeradores\TiposPrimitivosEnumeradores\obj\Debug\netcoreapp3.1\TiposPrimitivosEnumeradores.csproj.AssemblyReference.cache
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.3-enumeradores\TiposPrimitivosEnumeradores\obj\Debug\netcoreapp3.1\TiposPrimitivosEnumeradores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.3-enumeradores\TiposPrimitivosEnumeradores\obj\Debug\netcoreapp3.1\TiposPrimitivosEnumeradores.AssemblyInfoInputs.cache
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.3-enumeradores\TiposPrimitivosEnumeradores\obj\Debug\netcoreapp3.1\TiposPrimitivosEnumeradores.AssemblyInfo.cs
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.3-enumeradores\TiposPrimitivosEnumeradores\obj\Debug\netcoreapp3.1\TiposPrimitivosEnumeradores.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.3-enumeradores\TiposPrimitivosEnumeradores\obj\Debug\netcoreapp3.1\TiposPrimitivosEnumeradores.dll
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.3-enumeradores\TiposPrimitivosEnumeradores\obj\Debug\netcoreapp3.1\TiposPrimitivosEnumeradores.pdb
+C:\Users\Administrador\speed-wiz-dev\modulo2\projetos\c03-variaveis-e-tipos-primitivos\a03.3-enumeradores\TiposPrimitivosEnumeradores\obj\Debug\netcoreapp3.1\TiposPrimitivosEnumeradores.genruntimeconfig.cache

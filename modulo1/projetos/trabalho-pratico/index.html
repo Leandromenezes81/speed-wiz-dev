@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <title>Simulador de financiamento</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script defer src="simulador.js"></script>
+    <link rel="stylesheet" href="./estilos.css" />
+  </head>
+  <body>
+    <main>
+      <h1>Simulador de financiamento</h1>
+      <label>Valor: <input id="valor" type="number" value="200000" /></label
+      ><br />
+      <label
+        >Prazo (anos): <input id="prazoanos" type="number" value="20" /></label
+      ><br />
+      <label
+        >Juros ao ano: <input id="jurosaa" type="number" value="0.08"
+      /></label>
+      <button onclick="simular()">Simular</button>
+
+      <h2>Resultados</h2>
+      <label
+        >Prazo (meses): <input id="prazomeses" type="number" readonly /></label
+      ><br />
+      <label>Juros ao mês: <input id="jurosam" type="number" readonly /></label
+      ><br />
+      <label
+        >Juros total: <input id="jurostotal" type="number" readonly
+      /></label>
+
+      <table>
+        <thead>
+          <tr>
+            <th>Prestação</th>
+            <th>Amortização</th>
+            <th>Juros</th>
+            <th>Total</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1</td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>2</td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>3</td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>4</td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>5</td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>
+    </main>
+  </body>
+</html>

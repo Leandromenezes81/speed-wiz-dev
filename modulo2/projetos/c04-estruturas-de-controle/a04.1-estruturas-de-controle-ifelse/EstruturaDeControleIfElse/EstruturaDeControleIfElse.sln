@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaDeControleIfElse", "EstruturaDeControleIfElse.csproj", "{5820507B-F1ED-4E18-B208-F10E2EE2A23A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5820507B-F1ED-4E18-B208-F10E2EE2A23A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5820507B-F1ED-4E18-B208-F10E2EE2A23A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5820507B-F1ED-4E18-B208-F10E2EE2A23A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5820507B-F1ED-4E18-B208-F10E2EE2A23A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AA0D1A5-5168-4147-AED2-75C6DCE96E53}
+	EndGlobalSection
+EndGlobal
