@@ -114,5 +114,19 @@ namespace ExercicioBiblioteca.Controllers
                         }
                      );
         }
+
+        // Apagando livros do registro
+
+        [HttpDelete("apagar-livro")]
+        public async Task<IActionResult> Deletar(int codigo)
+        {
+            var livro = await _bibliotecaDbContext.Livros.Where(x => x.Codigo == codigo).FirstOrDefaultAsync();
+            if (livro == null)
+                return NotFound("Livro não encontrado.");
+            _bibliotecaDbContext.Livros.Remove(livro);
+            await _bibliotecaDbContext.SaveChangesAsync();
+
+            return Ok("Registro deletado com sucesso.");
+        }
     }
 }

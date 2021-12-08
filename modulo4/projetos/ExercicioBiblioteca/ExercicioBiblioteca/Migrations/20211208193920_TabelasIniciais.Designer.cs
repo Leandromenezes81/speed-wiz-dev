@@ -10,14 +10,14 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ExercicioBiblioteca.Migrations
 {
     [DbContext(typeof(BibliotecaDbContext))]
-    [Migration("20211201143416_TabelasIniciais")]
+    [Migration("20211208193920_TabelasIniciais")]
     partial class TabelasIniciais
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "3.1.21")
+                .HasAnnotation("ProductVersion", "3.1.4")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
@@ -156,7 +156,7 @@ namespace ExercicioBiblioteca.Migrations
                         .IsRequired();
 
                     b.HasOne("ExercicioBiblioteca.Models.Emprestimo", "Emprestimo")
-                        .WithMany()
+                        .WithMany("Itens")
                         .HasForeignKey("NumeroEmprestimo")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();

@@ -2,10 +2,7 @@
 using ExercicioBiblioteca.InputModel;
 using ExercicioBiblioteca.Models;
 using Microsoft.AspNetCore.Mvc;
-<<<<<<< HEAD
 using Microsoft.EntityFrameworkCore;
-=======
->>>>>>> bbd172297ae0b9a6e6094e764794cbc971f8036b
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,11 +11,7 @@ using System.Threading.Tasks;
 namespace ExercicioBiblioteca.Controllers
 {
     [ApiController]
-<<<<<<< HEAD
-    [Route ("api/[controller]")]
-=======
     [Route("api/[controller]")]
->>>>>>> bbd172297ae0b9a6e6094e764794cbc971f8036b
     public class LeitorController : ControllerBase
     {
         private readonly BibliotecaDbContext _bibliotecaDbContext;
@@ -27,8 +20,6 @@ namespace ExercicioBiblioteca.Controllers
         {
             _bibliotecaDbContext = bibliotecaDbContext;
         }
-<<<<<<< HEAD
-        // Listar leitores.
 
         [HttpGet("listar-leitor")]
         public async Task<IActionResult> Listar()
@@ -45,7 +36,7 @@ namespace ExercicioBiblioteca.Controllers
             var leitor = await _bibliotecaDbContext.Leitores.Where(x => x.Codigo == dadosEntrada.Codigo).FirstOrDefaultAsync();
             if (leitor == null)
                 return NotFound("Leitor não encontrado.");
-            
+
             leitor.Nome = dadosEntrada.Nome;
             leitor.CPF = dadosEntrada.CPF;
             leitor.Email = dadosEntrada.Email;
@@ -57,14 +48,10 @@ namespace ExercicioBiblioteca.Controllers
             return Ok(leitor);
         }
 
-        // Cadastrar leitores
-        [HttpPost("atualizar-leitor")]
-        public async Task<IActionResult> CadastrarLeitor (LeitorInput dadosEntrada)
-=======
+        // Cadastrar leitores.
 
-        [HttpPost]
-        public async Task<IActionResult> CadastrarLeitor(LeitorInput dadosEntrada) 
->>>>>>> bbd172297ae0b9a6e6094e764794cbc971f8036b
+        [HttpPost("cadastrar-leitor")]
+        public async Task<IActionResult> CadastrarLeitor(LeitorInput dadosEntrada)
         {
             var leitor = new Leitor()
             {
@@ -81,25 +68,30 @@ namespace ExercicioBiblioteca.Controllers
                         new
                         {
                             success = true,
-<<<<<<< HEAD
-                            data = new 
-=======
+
                             data = new
->>>>>>> bbd172297ae0b9a6e6094e764794cbc971f8036b
                             {
                                 codigoLeitor = leitor.Codigo,
                                 email = leitor.Email
                             }
-<<<<<<< HEAD
-                        }   
-                     );
-        }
-=======
 
                         }
                      );
         }
 
->>>>>>> bbd172297ae0b9a6e6094e764794cbc971f8036b
+        // Apagando leitores do registro
+
+        [HttpDelete("apagar-leitor")]
+        public async Task<IActionResult> Deletar(int codigo)
+        {
+            var leitor = await _bibliotecaDbContext.Leitores.Where(x => x.Codigo == codigo).FirstOrDefaultAsync();
+            if (leitor == null)
+                return NotFound("Leitor não encontrado.");
+            
+            _bibliotecaDbContext.Leitores.Remove(leitor);
+            await _bibliotecaDbContext.SaveChangesAsync();
+
+            return Ok("Registro deletado com sucesso.");
+        }
     }
 }

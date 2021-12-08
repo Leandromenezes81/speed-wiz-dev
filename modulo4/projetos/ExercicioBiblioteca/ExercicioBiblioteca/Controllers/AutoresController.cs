@@ -71,5 +71,19 @@ namespace ExercicioBiblioteca.Controllers
 
             return Ok();
         }
+
+        // Apagando autores do registro
+
+        [HttpDelete("apagar-autor")]
+        public async Task<IActionResult> Deletar(int codigo)
+        {
+            var autor = await _bibliotecaDbContext.Autores.Where(x => x.Codigo == codigo).FirstOrDefaultAsync();
+            if (autor == null)
+                return NotFound("Autor não encontrado.");
+            _bibliotecaDbContext.Autores.Remove(autor);
+            await _bibliotecaDbContext.SaveChangesAsync();
+
+            return Ok("Registro deletado com sucesso.");
+        }
     }
 }
