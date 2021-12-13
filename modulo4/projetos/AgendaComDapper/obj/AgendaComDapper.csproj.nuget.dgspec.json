@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrador\\speed-wiz-dev\\modulo4\\projetos\\AgendaComDapper\\AgendaComDapper.csproj": {}
+    "D:\\Users\\Leandro\\Projetos\\speed-wiz-dev\\modulo4\\projetos\\AgendaComDapper\\AgendaComDapper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrador\\speed-wiz-dev\\modulo4\\projetos\\AgendaComDapper\\AgendaComDapper.csproj": {
+    "D:\\Users\\Leandro\\Projetos\\speed-wiz-dev\\modulo4\\projetos\\AgendaComDapper\\AgendaComDapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrador\\speed-wiz-dev\\modulo4\\projetos\\AgendaComDapper\\AgendaComDapper.csproj",
+        "projectUniqueName": "D:\\Users\\Leandro\\Projetos\\speed-wiz-dev\\modulo4\\projetos\\AgendaComDapper\\AgendaComDapper.csproj",
         "projectName": "AgendaComDapper",
-        "projectPath": "C:\\Users\\Administrador\\speed-wiz-dev\\modulo4\\projetos\\AgendaComDapper\\AgendaComDapper.csproj",
-        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrador\\speed-wiz-dev\\modulo4\\projetos\\AgendaComDapper\\obj\\",
+        "projectPath": "D:\\Users\\Leandro\\Projetos\\speed-wiz-dev\\modulo4\\projetos\\AgendaComDapper\\AgendaComDapper.csproj",
+        "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Leandro\\Projetos\\speed-wiz-dev\\modulo4\\projetos\\AgendaComDapper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -49,6 +49,10 @@
             "Dapper": {
               "target": "Package",
               "version": "[2.0.123, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.78, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
